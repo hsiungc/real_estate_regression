@@ -20,6 +20,6 @@
 
 <p>•	R<br>
 •	Regression Analysis<br>
-•	Feature Engineering<p>
+•	Feature Engineering<br>
 •	Report Writing<br>
 •	Team Communication<br>
